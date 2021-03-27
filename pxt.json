@@ -1,5 +1,5 @@
 {
-    "name": "Love Meter",
+    "name": "Mood Meter",
     "description": "",
     "dependencies": {
         "core": "*",
